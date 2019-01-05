@@ -1,0 +1,56 @@
+---
+ID: 628
+post_title: 7 Step Membuat Logo Keren
+author: ilmanyazid
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.rumahkode.net/blog/7-step-membuat-logo-keren/
+published: true
+post_date: 2018-04-29 07:15:53
+---
+<p style="box-sizing: border-box; font-size: 16px; line-height: 30px; margin: 0px0px21px; color: #444444;"><span style="font-size: 14pt; color: #000000;">Beberapa orang melihat branding sebagai sedikit dari sebuah ide - kombinasi kata-kata yang bagus atau gambar yang bagus untuk "menghias" situs atau produk Anda. Tetapi dalam kenyataannya, <a href="https://www.rumahkode.net">membuat logo</a> ini adalah salah satu alat yang paling penting untuk mengontrol penjualan, dan sebagian besar yang merancang logo yang unik dan berkesan. </span></p>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 30px; margin: 0px0px21px; color: #444444;"><span style="font-size: 14pt; color: #000000;">Manusia adalah makhluk visual, dan jika kamu ingin pelanggan untuk emosional terhubung dengan bisnis kamu, kamu akan perlu identitas visual yang mudah diingat yang berbada dari pesaing Anda.</span></p>
+<h2><span style="color: #000000;"> </span></h2>
+<h2><span style="color: #000000;">Cara Membuat Logo</span></h2>
+ 
+<p style="box-sizing: border-box; font-size: 16px; line-height: 30px; margin: 0px0px21px; color: #444444;"><span style="font-size: 14pt; color: #000000;">Merancang logo yang besar tidak serumit mungkin tampak pada pandangan pertama.</span></p>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 30px; margin: 0px0px21px; color: #444444;"><span style="font-size: 14pt; color: #000000;">Berikut adalah langkah-langkah dasar membuat logo sendiri yang harus kamu ikuti jika Anda ingin sebuah logo yang benar-benar akan membantu mengarahkan penjualan.</span></p>
+<h3 id="1mapoutyourbrand" style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">1. memetakan merek kamu</span></h3>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">Sebelum kamu dapat membuat "design" dari merek Anda, Anda harus mantap menetapkan apakah merek kamu. </span></p>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">Jika bisnismu personal, karakter produk macam apa yang akan mereka inginkan? </span></p>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">dan mengapa mereka membeli produk kamu? </span></p>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">Berikut adalah semua hal-hal yang kamu perlukan untuk diingat.</span></p>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">Mempertimbangkan menulis brief kreatif untuk diri sendiri. Biasanya ini adalah apa yang Anda akan memberikan desainer grafis yang menciptakan logo Anda untuk Anda, tetapi mereka juga dapat membantu Anda mengatur dan memperkuat aspek merek Anda yang akan paling relevan dengan logo Anda. Dan jika Anda akhirnya konsultasi desain profesional, memiliki Rangkuman kreatif di tangan sudah akan membuat pekerjaan lebih mudah.</span></p>
+ 
+<h3 id="2seekoutinspiration" style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">2. mencari inspirasi</span></h3>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;"> Jika Anda merasa benar-benar hilang ketika datang ke apa logo Anda akan terlihat seperti, mulai dengan menjelajahi apa yang artis lakukan. Galeri desain seperti Behance dan papan di Pinterest adalah tempat yang sangat baik untuk memulai.</span>
+<span style="font-size: 14pt; color: #000000;">Anda harus sangat mempertimbangkan mengambil dekat melihat logo dari beberapa pesaing Anda. Tentu saja, Anda tidak ingin plagiarise ide orang lain, tetapi itu adalah ide yang baik untuk mendapatkan rasa apa bisnis lainnya lakukan-tidak hanya untuk melihat apa teknik yang bekerja untuk orang lain, tapi untuk memastikan bahwa logo Anda menonjol dalam kerumunan.</span></p>
+
+[caption id="attachment_633" width="650" align="aligncenter"]<img class="size-full wp-image-633" src="http://www.rumahkode.net/wp-content/uploads/2018/04/buat-logo-2.png" alt="buat logo 2" width="650" height="520"> <span style="font-size: 14pt; color: #000000;">buat logo via pinterest</span>[/caption]
+
+<h3></h3>
+<h3><span style="font-size: 14pt; color: #000000;">3. memutuskan skema warna</span></h3>
+<span style="font-size: 14pt; color: #000000;">Tergantung pada mana Anda berada dalam proses branding, Anda mungkin sudah memiliki skema warna bisnis Anda yang mapan. Jika tidak, Anda akan ingin memilih satu karena ada kesempatan baik logo Anda akan menggunakan warna yang sama.</span>
+<span style="font-size: 14pt; color: #000000;">Pertama, membiasakan diri dengan roda warna dan hubungan antara warna yang berbeda. Ada beberapa metode yang berbeda untuk mencapai keselarasan warna. Skema warna Anda bisa menjadi salah satu hal berikut:</span>
+<span style="font-size: 14pt; color: #000000;">Pelengkap-warna berlawanan satu sama lain pada roda warna</span>
+<span style="font-size: 14pt; color: #000000;">Analog-warna berikutnya satu sama lain pada roda warna Split-komplementer-warna dasar satu dan dua warna berdekatan dengan warnanya pelengkap</span>
+<span style="font-size: 14pt; color: #000000;">Triadic – tiga warna jarak yang sama dari satu sama lain pada roda warna</span>
+<span style="font-size: 14pt; color: #000000;">Tetradic – dua pasang warna pelengkap</span>
+<span style="font-size: 14pt; color: #000000;">Anda juga harus ingat untuk memilih warna yang mencerminkan kepribadian Anda merek dan produk yang Anda sediakan. Prinsip-prinsip psikologi warna bekerja baik sebagai pedoman dasar, tetapi jangan memperlakukan mereka sebagai aturan ketat. Hanya karena logo hijau tidak berarti bahwa orang akan secara otomatis menganggap Anda menjual peralatan berkebun.</span>
+<h3 id="4createsomeroughsketches" style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">4. Buat beberapa sketsa kasar</span></h3>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;"> Tidak merasa seperti Anda perlu untuk mendapatkan logo Anda tepat di pertama mencoba. Brainstorming dengan membuat beberapa sketsa kasar yang berbeda potensi logo. Bagi banyak orang, ini adalah langkah yang paling sulit-untuk benar-benar menggoreskan pena di atas kertas (atau kursor mouse ke kanvas ilustrator) dan membuat ide-ide Anda menjadi kenyataan. Ingat bahwa ada tidak ada jawaban yang "salah" di sini; Anda dapat memperbaiki dan menyempurnakan dalam tahap berikutnya dari proses.</span></p>
+
+[caption id="attachment_634" width="800" align="aligncenter"]<img class="size-full wp-image-634" src="http://www.rumahkode.net/wp-content/uploads/2018/04/buat-logo-3.gif" alt="buat logo 3" width="800" height="500"> <span style="font-size: 14pt; color: #000000;">buat logo via pinterest.com</span>[/caption]
+
+<h5></h5>
+<h3 id="5narrowdownthebestfeatures" style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">5. mempersempit fitur terbaik</span></h3>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;"> Sekarang bahwa Anda memiliki beberapa logo mungkin yang berbeda, memilih fitur yang Anda suka paling. Perlu diingat bahwa Anda mungkin perlu untuk "membunuh kesayangan Anda." Anda tidak dapat selalu menggunakan semua fitur yang Anda suka jika mereka tidak bekerja dengan baik dengan satu sama lain.</span></p>
+<span style="font-size: 14pt; color: #000000;">Bayangkan menggunting fitur wajah Anda favorit dari gambar selebriti yang indah dan menempatkan mereka semua bersama-sama untuk menciptakan wajah baru; itu mungkin tidak akan menjadi hampir sama menariknya karena berharap Anda. Sebaliknya, memilih satu atau dua elemen yang Anda benar-benar suka dan membangun sebuah logo baru yang mendukung unsur-unsur, mengingat prinsip-prinsip dasar desain logo.</span>
+<h3 id="6getfeedbackfromothers" style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">6. mendapatkan umpan balik dari orang lain</span></h3>
+<p style="box-sizing: border-box; font-size: 16px; line-height: 1.2;"><span style="font-size: 14pt; color: #000000;">Setelah Anda memiliki rancangan akhir bahwa Anda cukup senang dengan, saatnya untuk mendapatkan pendapat kedua (atau ketiga)). Tetapi meminta umpan balik memiliki perangkap tertentu yang Anda harus tinggal sadar. Fokus pada klien dan kolega, orang-orang yang bersemangat tentang bisnis Anda yang paling penting Anda. Jika Anda mencoba untuk membuat sesuatu yang menarik bagi orang-orang yang paling mungkin sekaligus, Anda mungkin berakhir dengan logo denominator terendah umum hambar yang tidak benar-benar menarik bagi siapa pun.</span>
+<span style="font-size: 14pt; color: #000000;">Juga, pastikan untuk mempertimbangkan cara di mana Anda berencana untuk memasarkan bisnis Anda. Logo yang tampak hebat pada situs web Anda tidak selalu bekerja dengan baik di atas kertas, sehingga jika Anda berniat untuk membuat penggunaan mailer atau jaminan lain dicetak, itu adalah ide yang baik untuk berkonsultasi dengan seorang desainer logo dengan pengalaman di bidang percetakan.</span></p>
+<h3><span style="font-size: 14pt; color: #000000;">7. menguji dan mengevaluasi kembali</span></h3>
+<span style="font-size: 14pt; color: #000000;">Cepat atau lambat, Anda akan harus meletakkan logo baru ke dunia. Mengujinya dengan cara yang sama Anda akan setiap fitur website yang baru; A / B terpisah pengujian adalah cara yang bagus untuk pergi. Jika logo baru tidak memberi Anda hasil yang Anda inginkan, Anda mungkin perlu untuk membuat beberapa perubahan.</span>
+<span style="font-size: 14pt; color: #000000;">Tujuan Anda seharusnya untuk membuat logo yang seperti hijau mungkin, tetapi meskipun demikian, Anda mungkin menemukan bahwa redesign akan diperlukan sebagai pasar berkembang. Jangan terus-menerus memperbarui logo Anda setiap minggu; itu hanya akan membuat merek Anda tampak kacau dan tidak dapat diandalkan. Tetapi jika bisnis Anda mengalami perubahan radikal atau tiba-tiba mengakuisisi penonton baru atau kompetisi baru, mungkin sudah saatnya untuk membuat perubahan.</span>
+<span style="font-size: 14pt; color: #000000;">Memiliki logo yang sempurna tidak akan secara ajaib membuat bisnis Anda sukses, tetapi memiliki logo yang salah dapat menghalangi Anda parah. Hal ini, setelah semua, kesan pertama bisnis Anda yang banyak klien akan menerima. Menciptakan identitas visual dapat menyenangkan — hanya pastikan untuk mengambil serius, juga.</span>
